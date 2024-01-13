@@ -1,2 +1,0 @@
-hexdump file.txt
-hexdump -C file.txt

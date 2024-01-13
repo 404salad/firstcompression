@@ -1,2 +1,0 @@
-this is some text in a file which i will
-perform compression on i love this
